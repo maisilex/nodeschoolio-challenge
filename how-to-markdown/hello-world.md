@@ -1,4 +1,5 @@
-<!-- If you are already familiar with HTML, you may guess that your solution will be rendered in such markup:
+<!---
+ If you are already familiar with HTML, you may guess that your solution will be rendered in such markup:
 
     ```html
     <p>Hello, world!</p>
@@ -8,7 +9,8 @@
 
     I am the first paragraph.
 
-    I am the second one. -->
+    I am the second one. -
+-->
 
 
 
